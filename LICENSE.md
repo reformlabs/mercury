@@ -1,13 +1,13 @@
-RFLS-1.0 (Reframed Open License)
+RFLS-1.0 (Reform Labs Open License)
 --------------------------------
 
-**Copyright (c) 2026 Reframed Org (also known as Reframed Team)**
+**Copyright (c) 2026 Reform Labs (also known as Reframed Team)**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
 
 ### 1\. Scope of License
 
-This license applies **exclusively to works published by Reframed Org (also referred to as Reframed Team)** and explicitly marked as licensed under **RFLS-1.0**.
+This license applies **exclusively to works published by Reform Labs (also referred to as Reframed Team)** and explicitly marked as licensed under **RFLS-1.0**.
 
 No other individual, organization, group, or project is permitted to publish new works under the RFLS-1.0 license.
 
@@ -17,7 +17,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 ### 3\. Name and Trademark Restriction
 
-The names **“Reframed”**, **“Reframed Org”**, and **“Reframed Team”** are reserved identifiers of Reframed Org.
+The names **"Reform"**, **"Reform Labs"**, **“Reframed”**, **“Reframed Org”**, and **“Reframed Team”** are reserved identifiers of Reform Labs.
 
 Derivative works, forks, modifications, or redistributed versions of the Software **may not use** these names, or any confusingly similar names, in the project name, organization name, branding, marketing, or promotional materials, **without explicit prior written permission from Reframed Org**.
 
