@@ -3,6 +3,7 @@
 </div>
 
 # Mercury by Reform Labs
+A simple file convert tool that use ffmpeg, multer and sharp to convert your file. Eg. PNG to JPG
 
 > [!IMPORTANT]
 > This project is developed by **Reform Labs**. Users are free to use the system and contribute, but they may not redistribute it by claiming ownership as if it were their own project.
